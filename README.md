@@ -76,3 +76,56 @@ Finally, the code combines the two parts to form the general solution:
 **y = y<sub>c</sub> + y<sub>p</sub>**
 
 </div>
+
+
+# OR
+
+
+The following are the procedures that describes the Method of Variation of Parameters: 
+
+**1. Finding the Complementary Function (*y*<sub>*c*</sub>):** <br>
+The first step involves solving the homogeneous version of the equation (setting the right side to zero). <br>
+  - For constant coefficients (Problem 2), we use the characteristic equation.
+  - For variable coefficients (Problems 1 and 3), we identify two linearly independent solutions, ***y*<sub>1</sub>(*x*)** and ***y*<sub>2</sub>(*x*)**, often found by inspection or by reduction of order.
+  - **Result: *y*<sub>*c*</sub> = *C*<sub>1</sub>*y*<sub>1</sub>(*x*) + *C*<sub>2</sub>*y*<sub>2</sub>(*x*)**
+<br>
+
+**2. Variation of Parameters for the Particular Integral (*y*<sub>*p*</sub>):** <br>
+Instead of constants *C*<sub>1</sub> and *C*<sub>2</sub>, we assume the particular solution takes the form: <br>
+<div align="center">
+
+***y*<sub>*p*</sub> = *u*<sub>1</sub>(*x*)*y*<sub>1</sub>(*x*) + *u*<sub>2</sub>(*x*)*y*<sub>2</sub>(*x*)**
+
+</div>
+
+To find *u*<sub>1</sub> and *u*<sub>2</sub>, we solve the following system of equations:
+
+**1. *u*<sub>1</sub>'*y*<sub>1</sub> + *u*<sub>2</sub>'*y*<sub>2</sub> = 0**
+
+**2. *u*<sub>1</sub>'*y*<sub>1</sub>' + *u*<sub>2</sub>'*y*<sub>2</sub>' = $\boldsymbol{\frac{f(x)}{a(x)}}$**
+
+**Where *f*(*x*) is the non-homogeneous term and *a*(*x*) is the coefficient of *y*'**
+
+<br>
+
+**3. Calculating the Wronskian:**
+The code relies on the Wronskian Method (***W***), which ensures the solutions are linearly independent:
+<div align="center">
+ 
+***W* (*y*<sub>1</sub>, *y*<sub>2</sub>) = *y*<sub>1</sub>*y*<sub>2</sub>' - *y*<sub>2</sub>*y*<sub>1</sub>'**
+
+</div>
+
+The functions ***u*<sub>1</sub>** and ***u*<sub>2</sub>** are then found by integration:
+  - **$u_1 = \int \frac{-y_2 f(x)}{W \cdot a(x)} \, dx$**
+  - **$u_2 = \int \frac{y_1 f(x)}{W \cdot a(x)} \, dx$**
+
+<br>
+
+**4. Constructing the General Solution:** <br>
+Finally, the code combines the two parts to form the general solution:
+<div align="center">
+ 
+***y* = *y*<sub>*c*</sub> + *y*<sub>*p*</sub>**
+
+</div>
