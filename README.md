@@ -8,6 +8,8 @@ The concept Method of Variation of Parameters is implemented using Python code b
 
 <br>
 
+---
+
 ## Description of the selected problems
 Following are the Problems selected:- <br>
 Q.) Find the Particular Solution and General Solution:
@@ -28,6 +30,8 @@ The above selected problems are from the **textbook Differential Equations With 
 ---
 
 <br>
+
+---
 
 ## Procedure/Method used
 The following are the procedures that describes the Method of Variation of Parameters: 
@@ -81,6 +85,10 @@ Finally, the code combines the two parts to form the general solution:
 
 ---
 
+<br>
+
+---
+
 ## Algorithm/Coding Approach <br>
 The following are the Algorithm/Coding Approach: <br>
 
@@ -95,6 +103,8 @@ The following are the Algorithm/Coding Approach: <br>
 ---
 
 <br>
+
+---
 
 ## Output Results
 
