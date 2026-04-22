@@ -20,5 +20,4 @@ Q.) Find the Particular Solution and General Solution:
 
 The above selected problems are from the textbook Differential Equations With Applications and Historical Notes, from Chapter 3: Second Order Linear Equations, Section 19. These problems deals with Second-Order Linear Non-Homogeneous Differential Equations and their study of the mathematical connection between the system's inherent characteristics and its behavior when subjected to external influences. The following gives the description of the above problems:
 
-**Distinguishing and Classification of Problems:** 
-The selected problems involves the classification of constant co-efficients (Problem 2) and variable co-efficients (Problems 1 and 3). In the latter case, a component of the Complementary Function is identified first by intuition such as y = x or y = e<sup>x</sup> before Reduction of Order Method can be applied.
+ ➤ **Distinguishing and Classification of Problems:** The selected problems involves the classification of constant co-efficients (Problem 2) and variable co-efficients (Problems 1 and 3). In the latter case, a component of the Complementary Function is identified first by intuition such as y = x or y = e<sup>x</sup> before Reduction of Order Method can be applied.
