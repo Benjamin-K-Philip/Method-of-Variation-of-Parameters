@@ -103,9 +103,11 @@ The following are the Algorithm/Coding Approach: <br>
 
 ## Solution Graphs from the Code 
 
-**Problem 1: (*x*<sup>2</sup> - 1)*y''* - 2*xy'* + 2*y* = (*x*<sup>2</sup> - 1)<sup>2</sup>**
+### Solution Graph for Problem 1: (*x*<sup>2</sup> - 1)*y''* - 2*xy'* + 2*y* = (*x*<sup>2</sup> - 1)<sup>2</sup>
+<img width="1366" height="714" alt="image" src="https://github.com/user-attachments/assets/8c9e1791-7ba7-4478-8472-fad2eb0668a4" />
+<br><br>
 
-**Problem 2: *y''* + *y* = sec *x* cosec *x***
+### Solution Graph for Problem 2: *y''* + *y* = sec *x* cosec *x
 
 **Problem 3: (*x*<sup>2</sup> + *x*)*y''* + (2 - *x*<sup>2</sup>)*y'* - (2 + *x*)*y* = *x*(*x* + 1)<sup>2</sup>**
 
