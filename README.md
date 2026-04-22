@@ -97,7 +97,16 @@ The following are the Algorithm/Coding Approach: <br>
 ## Output Results
 <img width="1247" height="616" alt="Output Results-1" src="https://github.com/user-attachments/assets/0292b1bf-574e-4456-8480-223b02bb5629" />
 <img width="1192" height="311" alt="Output Results-2 - Copy" src="https://github.com/user-attachments/assets/d1ef5c72-e1af-49a1-a361-9731579c5cbc" />
+
 ---
 
+
+## Solution Graphs from the Code 
+
+**Problem 1: (*x*<sup>2</sup> - 1)*y''* - 2*xy'* + 2*y* = (*x*<sup>2</sup> - 1)<sup>2</sup>**
+
+**Problem 2: *y''* + *y* = sec *x* cosec *x***
+
+**Problem 3: (*x*<sup>2</sup> + *x*)*y''* + (2 - *x*<sup>2</sup>)*y'* - (2 + *x*)*y* = *x*(*x* + 1)<sup>2</sup>**
 
 
