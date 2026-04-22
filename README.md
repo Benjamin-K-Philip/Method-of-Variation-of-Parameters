@@ -62,3 +62,7 @@ The code relies on the Wronskian Method (**W**), which ensures the solutions are
 **W (y<sub>1</sub>, y<sub>2</sub>) = y<sub>1</sub>y<sub>2</sub>' - y<sub>2</sub>y<sub>1</sub>'**
 
 </div>
+
+The functions **u1** and **u2** are then found by integration:
+  - $u_1 = \int \frac{-y_2 f(x)}{W \cdot a(x)} \, dx$
+  - $u_2 = \int \frac{y_1 f(x)}{W \cdot a(x)} \, dx$
