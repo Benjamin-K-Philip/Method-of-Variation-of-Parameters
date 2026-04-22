@@ -38,5 +38,9 @@ The first step involves solving the homogeneous version of the equation (setting
 
 
 **2. Variation of Parameters for the Particular Integral (y<sub>p</sub>):**
-Instead of constants C<sub>1</sub> and C<sub>2</sub>, we assume the particular solution takes the form:
+Instead of constants C<sub>1</sub> and C<sub>2</sub>, we assume the particular solution takes the form: <br>
+<div align="center">
+
 **yp = u<sub>1</sub>(x)y<sub>1</sub>(x) + u<sub>2</sub>(x)y<sub>2</sub>(x)**
+
+</div>
