@@ -45,10 +45,10 @@ Instead of constants C<sub>1</sub> and C<sub>2</sub>, we assume the particular s
 
 </div>
 
-To find *u*<sub>1</sub> and *u*<sub>2</sub>, we solve the following system of equations:
+To find u<sub>1</sub> and u<sub>2</sub>, we solve the following system of equations:
 
-**1. *u*<sub>1</sub>'*y*<sub>1</sub> + *u*<sub>2</sub>'*y*<sub>2</sub> = 0**
+**1. u<sub>1</sub>'y<sub>1</sub> + u<sub>2</sub>'y<sub>2</sub> = 0**
 
-**2. *u*<sub>1</sub>'*y*<sub>1</sub>' + *u*<sub>2</sub>'*y*<sub>2</sub>' = *f(x)* / *a(x)***
+**2. u<sub>1</sub>'y<sub>1</sub>' + u<sub>2</sub>'y<sub>2</sub>' = $\mathbf{\frac{f(x)}{a(x)}}$**
 
 **Where f(x) is the non-homogeneous term and a(x) is the coefficient of y'**
