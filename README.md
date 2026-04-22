@@ -107,8 +107,11 @@ The following are the Algorithm/Coding Approach: <br>
 <img width="1366" height="714" alt="image" src="https://github.com/user-attachments/assets/8c9e1791-7ba7-4478-8472-fad2eb0668a4" />
 <br><br>
 
-### Solution Graph for Problem 2: *y''* + *y* = sec *x* cosec *x
+### Solution Graph for Problem 2: *y''* + *y* = sec *x* cosec *x*
+<img width="1366" height="714" alt="image" src="https://github.com/user-attachments/assets/81e5afe9-b8c7-4c1e-9463-ed4786de661e" />
+<br><br>
 
-**Problem 3: (*x*<sup>2</sup> + *x*)*y''* + (2 - *x*<sup>2</sup>)*y'* - (2 + *x*)*y* = *x*(*x* + 1)<sup>2</sup>**
-
+### Solution Graph for Problem 3: (*x*<sup>2</sup> + *x*)*y''* + (2 - *x*<sup>2</sup>)*y'* - (2 + *x*)*y* = *x*(*x* + 1)<sup>2</sup>
+<img width="1366" height="716" alt="image" src="https://github.com/user-attachments/assets/fd083775-2e7f-405f-a0ac-b2339e8aef80" />
+<br><br>
 
