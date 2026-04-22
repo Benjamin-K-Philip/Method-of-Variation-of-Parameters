@@ -36,3 +36,7 @@ The first step involves solving the homogeneous version of the equation (setting
   - For variable coefficients (Problems 1 and 3), we identify two linearly independent solutions, **y<sub>1</sub>(x)** and **y<sub>2</sub>(x)**, often found by inspection or by reduction of order.
   - **Result: yc = C<sub>1</sub>y<sub>1</sub>(x) + C<sub>2</sub>y<sub>2</sub>(x)**
 
+
+**2. Variation of Parameters for the Particular Integral (y<sub>p</sub>):**
+Instead of constants C<sub>1</sub> and C<sub>2</sub>, we assume the particular solution takes the form:
+<br><br>**yp = u<sub>1</sub>(x)y<sub>1</sub>(x) + u<sub>2</sub>(x)y<sub>2</sub>(x)**
