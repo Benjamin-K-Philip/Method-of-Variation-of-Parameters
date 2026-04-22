@@ -83,7 +83,7 @@ Finally, the code combines the two parts to form the general solution:
 ## Algorithm/Coding Approach <br>
 The following are the Algorithm/Coding Approach: <br>
 
-➤ **Symbolic Definition:** The code uses the SymPy module for the definition of mathematical variables (**_x_**) and functions (**_y_**) as symbols. Therefore, it enables the interpretation of complicated math expressions as textual inputs and not as numerical values.
+➤ **Symbolic Definition:** The code uses the SymPy module for the definition of mathematical variables ($x$) and functions ($y$) as symbols. Therefore, it enables the interpretation of complicated math expressions as textual inputs and not as numerical values.
 
 ➤ **String Normalization:** For better usability purposes, the program normalizes string input. It removes any whitespaces and converts all characters to lowercase.
 
