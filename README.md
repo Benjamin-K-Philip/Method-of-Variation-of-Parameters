@@ -37,11 +37,11 @@ The first step involves solving the homogeneous version of the equation (setting
   - **Result:** **$y_c = C_1y_1(x) + C_2y_2(x)$**
 <br>
 
-**2. Variation of Parameters for the Particular Integral (*y*<sub>*p*</sub>):** <br>
+**2. Variation of Parameters for the Particular Integral ($y_p$):** <br>
 Instead of constants *C*<sub>1</sub> and *C*<sub>2</sub>, we assume the particular solution takes the form: <br>
 <div align="center">
 
-***y*<sub>*p*</sub> = *u*<sub>1</sub>(*x*)*y*<sub>1</sub>(*x*) + *u*<sub>2</sub>(*x*)*y*<sub>2</sub>(*x*)**
+**$y_p = u_1(x)y_1(x) + u_2(x)y_2(x)$**
 
 </div>
 
