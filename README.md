@@ -6,6 +6,7 @@ The concept Method of Variation of Parameters is implemented using Python code b
 
 ---
 
+<br>
 
 ## Description of the selected problems
 Following are the Problems selected:- <br>
@@ -25,6 +26,8 @@ The above selected problems are from the **textbook Differential Equations With 
 ➤ **Use of Variation of Parameters Method:** Problems involve use of Variation of Parameters method to obtain Particular Solution. The method is crucial because "forcing functions" (the expressions on the right-hand side) are non-standard; otherwise, undetermined co-efficient method would be inapplicable.
 
 ---
+
+<br>
 
 ## Procedure/Method used
 The following are the procedures that describes the Method of Variation of Parameters: 
@@ -92,5 +95,9 @@ The following are the Algorithm/Coding Approach: <br>
 ➤ **Graph Solution:** It uses Matplotlib library for graph of the solution. For each input problem, the code selects particular intervals of x-axis to provide accurate graph without mathematical exceptions (division by zero).
 
 ---
+
+<br>
+
+## Output Results
 
 
