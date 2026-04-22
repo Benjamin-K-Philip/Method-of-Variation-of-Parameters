@@ -30,7 +30,7 @@ The above selected problems are from the **textbook Differential Equations With 
 ## Procedure/Method used
 The following are the procedures that describes the Method of Variation of Parameters: 
 
-**1. Finding the Complementary Function (*y*<sub>*c*</sub>):** <br>
+**1. Finding the Complementary Function ($y_c$):** <br>
 The first step involves solving the homogeneous version of the equation (setting the right side to zero). <br>
   - For constant coefficients (Problem 2), we use the characteristic equation.
   - For variable coefficients (Problems 1 and 3), we identify two linearly independent solutions, ***y*<sub>1</sub>(*x*)** and ***y*<sub>2</sub>(*x*)**, often found by inspection or by reduction of order.
