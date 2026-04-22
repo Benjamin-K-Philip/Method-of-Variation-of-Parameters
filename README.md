@@ -52,6 +52,7 @@ To find u<sub>1</sub> and u<sub>2</sub>, we solve the following system of equati
 **2. u<sub>1</sub>'y<sub>1</sub>' + u<sub>2</sub>'y<sub>2</sub>' = $\mathbf{\frac{f(x)}{a(x)}}$**
 
 **Where f(x) is the non-homogeneous term and a(x) is the coefficient of y'**
+
 <br>
 
 **3. Calculating the Wronskian:**
@@ -65,6 +66,7 @@ The code relies on the Wronskian Method (**W**), which ensures the solutions are
 The functions **u1** and **u2** are then found by integration:
   - $u_1 = \int \frac{-y_2 f(x)}{W \cdot a(x)} \, dx$
   - $u_2 = \int \frac{y_1 f(x)}{W \cdot a(x)} \, dx$
+
 <br>
 
 **4.Constructing the General Solution:** <br>
