@@ -11,7 +11,7 @@ The concept Method of Variation of Parameters is implemented using Python code b
 Following are the Problems selected:- <br>
 Q.) Find the Particular Solution and General Solution:
 
-**Problem 1: (x<sup>2</sup> - 1)y'' - 2xy' + 2y = (x<sup>2</sup> - 1)<sup>2</sup>**
+**Problem 1: (x<sup>2</sup> - 1)y'' - 2_xy_' + 2y = (x<sup>2</sup> - 1)<sup>2</sup>**
 
 **Problem 2: y'' + y = sec x cosec x**
 
