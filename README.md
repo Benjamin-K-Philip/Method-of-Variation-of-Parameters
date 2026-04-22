@@ -81,10 +81,6 @@ Finally, the code combines the two parts to form the general solution:
 
 ---
 
-<br>
-
----
-
 ## Algorithm/Coding Approach <br>
 The following are the Algorithm/Coding Approach: <br>
 
