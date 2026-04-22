@@ -11,11 +11,11 @@ The concept Method of Variation of Parameters is implemented using Python code b
 Following are the Problems selected:- <br>
 Q.) Find the Particular Solution and General Solution:
 
-**1. (x<sup>2</sup> - 1)y'' - 2xy' + 2y = (x<sup>2</sup> - 1)<sup>2</sup>**
+**Problem 1: (x<sup>2</sup> - 1)y'' - 2xy' + 2y = (x<sup>2</sup> - 1)<sup>2</sup>**
 
-**2. y'' + y = sec x cosec x**
+**Problem 2: y'' + y = sec x cosec x**
 
-**3. (x<sup>2</sup> + x)y'' + (2 - x<sup>2</sup>)y' - (2 + x)y = x(x + 1)<sup>2</sup>**
+**Problem 3: (x<sup>2</sup> + x)y'' + (2 - x<sup>2</sup>)y' - (2 + x)y = x(x + 1)<sup>2</sup>**
 <br>
 
 The above selected problems are from the textbook Differential Equations With Applications and Historical Notes, from Chapter 3: Second Order Linear Equations, Section 19. These problems deals with Second-Order Linear Non-Homogeneous Differential Equations and their study of the mathematical connection between the system's inherent characteristics and its behavior when subjected to external influences. The following gives the description of the above problems:
@@ -28,6 +28,11 @@ The above selected problems are from the textbook Differential Equations With Ap
 
 ## Procedure/Method used
 
-The following are the procedures that describes the Method of Variation of Parameters:
+The following are the procedures that describes the Method of Variation of Parameters: 
 
-**1. Finding the Complementary Function (y<sub>c</sub>):**
+**1. Finding the Complementary Function (y<sub>c</sub>):** <br>
+The first step involves solving the homogeneous version of the equation (setting the right side to zero). <br>
+For constant coefficients (Problem 2), we use the characteristic equation.
+For variable coefficients (Problems 1 and 3), we identify two linearly independent solutions, **y<sub>1</sub>(x)** and **y<sub>2</sub>(x)**, often found by inspection or by reduction of order.
+**Result: yc = C<sub>1</sub>y<sub>1</sub>(x) + C<sub>2</sub>y<sub>2</sub>(x)**
+
