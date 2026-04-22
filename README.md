@@ -20,7 +20,7 @@ Q.) Find the Particular Solution and General Solution:
 
 The above selected problems are from the **textbook Differential Equations With Applications and Historical Notes, from Chapter 3: Second Order Linear Equations, Section 19**. These problems deals with Second-Order Linear Non-Homogeneous Differential Equations and their study of the mathematical connection between the system's inherent characteristics and its behavior when subjected to external influences. The following gives the description of the above problems:
 
- ➤ **Distinguishing and Classification of Problems:** The selected problems involves the classification of constant co-efficients (Problem 2) and variable co-efficients (Problems 1 and 3). In the latter case, a component of the Complementary Function is identified first by intuition such as <br> **_y = x or y = e<sup>x</sup>_** before Reduction of Order Method can be applied.
+➤ **Distinguishing and Classification of Problems:** The selected problems involves the classification of constant co-efficients (Problem 2) and variable co-efficients (Problems 1 and 3). In the latter case, a component of the Complementary Function is identified first by intuition such as <br> **_y = x or y = e<sup>x</sup>_** before Reduction of Order Method can be applied.
 
 ➤ **Use of Variation of Parameters Method:** Problems involve use of Variation of Parameters method to obtain Particular Solution. The method is crucial because "forcing functions" (the expressions on the right-hand side) are non-standard; otherwise, undetermined co-efficient method would be inapplicable.
 
@@ -77,3 +77,19 @@ Finally, the code combines the two parts to form the general solution:
 </div>
 
 ---
+
+
+## Algorithm/Coding Approach <br>
+The following are the Algorithm/Coding Approach: <br>
+
+➤ **Symbolic Definition:** The code uses the SymPy module for the definition of mathematical variables (**_x_**) and functions (**_y_**) as symbols. Therefore, it enables the interpretation of complicated math expressions as textual inputs and not as numerical values.
+
+➤ **String Normalization:** For better usability purposes, the program normalizes string input. It removes any whitespaces and converts all characters to lowercase.
+
+➤ **Mathematical Expression to Code:** The python code utilizes a method called lambdify (sp.lambdify), which translates an abstract symbolic expression into an executable code capable of generating numerical data.
+
+➤ **Graph Solution:** It uses Matplotlib library for graph of the solution. For each input problem, the code selects particular intervals of x-axis to provide accurate graph without mathematical exceptions (division by zero).
+
+---
+
+
