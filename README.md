@@ -34,7 +34,7 @@ The following are the procedures that describes the Method of Variation of Param
 The first step involves solving the homogeneous version of the equation (setting the right side to zero). <br>
   - For constant coefficients (Problem 2), we use the characteristic equation.
   - For variable coefficients (Problems 1 and 3), we identify two linearly independent solutions, $y_1(x)$ and $y_2(x)$, often found by inspection or by reduction of order.
-  - **Result: *y*<sub>*c*</sub> = *C*<sub>1</sub>*y*<sub>1</sub>(*x*) + *C*<sub>2</sub>*y*<sub>2</sub>(*x*)**
+  - **Result:** **$y_c = C_1y_1(x) + C_2y_2(x)$**
 <br>
 
 **2. Variation of Parameters for the Particular Integral (*y*<sub>*p*</sub>):** <br>
