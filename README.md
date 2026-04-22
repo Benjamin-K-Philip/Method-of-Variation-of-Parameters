@@ -41,6 +41,12 @@ The first step involves solving the homogeneous version of the equation (setting
 Instead of constants C<sub>1</sub> and C<sub>2</sub>, we assume the particular solution takes the form: <br>
 <div align="center">
 
-**yp = u<sub>1</sub>(x)y<sub>1</sub>(x) + u<sub>2</sub>(x)y<sub>2</sub>(x)**
+**y<sub>p</sub> = u<sub>1</sub>(x)y<sub>1</sub>(x) + u<sub>2</sub>(x)y<sub>2</sub>(x)**
 
 </div>
+
+To find *u*<sub>1</sub> and *u*<sub>2</sub>, we solve the following system of equations:
+
+**1. *u*<sub>1</sub>'*y*<sub>1</sub> + *u*<sub>2</sub>'*y*<sub>2</sub> = 0**
+
+**2. *u*<sub>1</sub>'*y*<sub>1</sub>' + *u*<sub>2</sub>'*y*<sub>2</sub>' = *f(x)* / *a(x)***
