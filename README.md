@@ -11,11 +11,11 @@ The concept Method of Variation of Parameters is implemented using Python code b
 Following are the Problems selected:- <br>
 Q.) Find the Particular Solution and General Solution:
 
-**Problem 1: (_x_ <sup>2</sup> - 1) _y_'' - 2 _xy_' + 2 _y_ = (_x_ <sup>2</sup> - 1)<sup>2</sup>**
+**Problem 1: (x<sup>2</sup> - 1)y'' - 2xy' + 2y = (x<sup>2</sup>-1)<sup>2</sup>**
 
-**Problem 2: _y_'' + _y_ = sec _x_ cosec _x_**
+**Problem 2: y'' + y = sec x cosec x**
 
-**Problem 3: (_x_ <sup>2</sup> + _x_)_y_'' + (2 - _x_ <sup>2</sup>)_y_' - (2 + _x_)_y_ = _x_(_x_ + 1)<sup>2</sup>**
+**Problem 3: (x <sup>2</sup> + x)y'' + (2 - x<sup>2</sup>)y' - (2 + x)y = x(x + 1)<sup>2</sup>**
 <br>
 
 The above selected problems are from the textbook Differential Equations With Applications and Historical Notes, from Chapter 3: Second Order Linear Equations, Section 19. These problems deals with Second-Order Linear Non-Homogeneous Differential Equations and their study of the mathematical connection between the system's inherent characteristics and its behavior when subjected to external influences. The following gives the description of the above problems:
