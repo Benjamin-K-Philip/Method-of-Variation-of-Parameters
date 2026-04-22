@@ -8,7 +8,6 @@ The concept Method of Variation of Parameters is implemented using Python code b
 
 <br>
 
-
 ## Description of the selected problems
 Following are the Problems selected:- <br>
 Q.) Find the Particular Solution and General Solution:
