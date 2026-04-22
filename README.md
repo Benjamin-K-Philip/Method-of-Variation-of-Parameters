@@ -47,11 +47,11 @@ Instead of constants $C_1$ and $C_2$ , we assume the particular solution takes t
 
 To find *u*<sub>1</sub> and *u*<sub>2</sub>, we solve the following system of equations:
 
-**1. *u*<sub>1</sub>'*y*<sub>1</sub> + *u*<sub>2</sub>'*y*<sub>2</sub> = 0**
+**1**. **$u_1^{\prime}y_1 + u_2^{\prime}y_2 = 0$**
 
-**2. *u*<sub>1</sub>'*y*<sub>1</sub>' + *u*<sub>2</sub>'*y*<sub>2</sub>' = $\boldsymbol{\frac{f(x)}{a(x)}}$**
+**2.** **$u_1^{\prime}y_1^{\prime} + u_2^{\prime}y_2^{\prime} = \dfrac{f(x)}{a(x)}$**
 
-**Where *f*(*x*) is the non-homogeneous term and *a*(*x*) is the coefficient of *y*'**
+**Where $f(x)$ is the non-homogeneous term and $a(x)$ is the coefficient of $y'$**
 
 <br>
 
