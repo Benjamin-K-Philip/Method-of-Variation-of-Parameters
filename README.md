@@ -11,11 +11,11 @@ The concept Method of Variation of Parameters is implemented using Python code b
 Following are the Problems selected:- <br>
 Q.) Find the Particular Solution and General Solution:
 
-1. **$(x^2 - 1)y'' - 2xy' + 2y = (x^2 - 1)^2$**
+Problem 1: **$(x^2 - 1)y'' - 2xy' + 2y = (x^2 - 1)^2$**
 
-2. **$y'' + y = \sec x \cosec x$**
+Problem 2: **$y'' + y = \sec x \ cosec x$**
 
-3. **$(x^2 + x)y'' + (2 - x^2)y' - (2 + x)y = x(x + 1)^2$**
+Problem 3: **$(x^2 + x)y'' + (2 - x^2)y' - (2 + x)y = x(x + 1)^2$**
 <br>
 
 The above selected problems are from the **textbook Differential Equations With Applications and Historical Notes, from Chapter 3: Second Order Linear Equations, Section 19**. These problems deals with Second-Order Linear Non-Homogeneous Differential Equations and their study of the mathematical connection between the system's inherent characteristics and its behavior when subjected to external influences. The following gives the description of the above problems:
