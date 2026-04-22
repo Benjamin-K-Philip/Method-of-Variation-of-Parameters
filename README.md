@@ -26,4 +26,8 @@ The above selected problems are from the textbook Differential Equations With Ap
 
 ---
 
+## Procedure/Method used
 
+The following are the procedures that describes the Method of Variation of Parameters:
+
+**1. Finding the Complementary Function (y<sub>c</sub>):**
