@@ -56,14 +56,14 @@ To find *u*<sub>1</sub> and *u*<sub>2</sub>, we solve the following system of eq
 <br>
 
 **3. Calculating the Wronskian:**
-The code relies on the Wronskian Method (***W***), which ensures the solutions are linearly independent:
+The code relies on the Wronskian Method ($W$), which ensures the solutions are linearly independent:
 <div align="center">
  
-***W* (*y*<sub>1</sub>, *y*<sub>2</sub>) = *y*<sub>1</sub>*y*<sub>2</sub>' - *y*<sub>2</sub>*y*<sub>1</sub>'**
+**$W(y_1, y_2) = y_1y_2^{\prime} - y_2y_1^{\prime}$**
 
 </div>
 
-The functions ***u*<sub>1</sub>** and ***u*<sub>2</sub>** are then found by integration:
+The functions $u_1$ and $u_2$ are then found by integration:
   - **$u_1 = \int \frac{-y_2 f(x)}{W \cdot a(x)} \, dx$**
   - **$u_2 = \int \frac{y_1 f(x)}{W \cdot a(x)} \, dx$**
 
@@ -73,7 +73,7 @@ The functions ***u*<sub>1</sub>** and ***u*<sub>2</sub>** are then found by inte
 Finally, the code combines the two parts to form the general solution:
 <div align="center">
  
-***y* = *y*<sub>*c*</sub> + *y*<sub>*p*</sub>**
+**$y = y_c + y_p$**
 
 </div>
 
