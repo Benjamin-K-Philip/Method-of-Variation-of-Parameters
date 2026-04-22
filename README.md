@@ -59,6 +59,6 @@ To find u<sub>1</sub> and u<sub>2</sub>, we solve the following system of equati
 The code relies on the Wronskian Method (**W**), which ensures the solutions are linearly independent:
 <div align="center">
  
-W (y1, y2) = y1y2' - y2y1'
+**W (y<sub>1</sub>, y<sub>2</sub>) = y<sub>1</sub>y<sub>2</sub>' - y<sub>2</sub>y<sub>1</sub>'**
 
 </div>
