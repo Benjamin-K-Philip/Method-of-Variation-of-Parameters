@@ -66,3 +66,12 @@ The code relies on the Wronskian Method (**W**), which ensures the solutions are
 The functions **u1** and **u2** are then found by integration:
   - $u_1 = \int \frac{-y_2 f(x)}{W \cdot a(x)} \, dx$
   - $u_2 = \int \frac{y_1 f(x)}{W \cdot a(x)} \, dx$
+<br>
+
+**4.Constructing the General Solution:** <br>
+Finally, the code combines the two parts to form the general solution:
+<div align="center">
+ 
+**y = y<sub>c</sub> + y<sub>p</sub>**
+
+</div>
