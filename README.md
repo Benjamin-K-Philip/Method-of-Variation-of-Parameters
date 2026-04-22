@@ -11,8 +11,8 @@ The concept Method of Variation of Parameters is implemented using Python code b
 Following are the Problems selected:- <br>
 Q.) Find the Particular Solution and General Solution:
 
-**1. (*x*<sup>2</sup> - 1)*y''* - 2*xy'* + 2*y* = (*x*<sup>2</sup> - 1)<sup>2</sup>**
+**1. (x<sup>2</sup> - 1)y'' - 2xy' + 2y = (x<sup>2</sup> - 1)<sup>2</sup>**
 
-**2. *y''* + *y* = sec *x* cosec *x***
+**2. y'' + y = sec x cosec x**
 
-**3. (*x*<sup>2</sup> + *x*)*y''* + (2 - *x*<sup>2</sup>)*y'* - (2 + *x*)*y* = *x*(*x* + 1)<sup>2</sup>**
+**3. (x<sup>2</sup> + x)y'' + (2 - x<sup>2</sup>)y' - (2 + x)y = x(x + 1)<sup>2</sup>**
